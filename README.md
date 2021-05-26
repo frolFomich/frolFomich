@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @frol.Fomich
-- 👀 I’m interested in General programming, Kubernetes, dystributed systems, Java, Golang
-- 🌱 I’m currently learning dystributed systems especially in IoT area
+- 👀 I’m interested in General programming, Kubernetes, distributed systems, Java, Golang
+- 🌱 I’m currently learning distributed systems especially in IoT area
 - 💞️ I’m looking to collaborate on IoT Edge Kubernetes based solutions
 - 📫 You can reach me by e-mail frol.fomich@gmail.com
 
